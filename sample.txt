@@ -1,1 +1,1 @@
-This is so exciting (up, 2) and fun (cap)
+bonjour tout le monde (cap) , voici mon projet (up) ,il marche tres bien (cap, 2) . Ajoute 42 (hex) et 10 (bin) et tu verras que le résultat est 68. Je dois arreter de CRIER (low) ,tu en penses quoi ? Les tests de ponctuation sont ... plutot ennuyeux . Je suis exactement comme ils me decrivent : ' genial ' . Comme il disait : ' je suis le plus fort du monde '
